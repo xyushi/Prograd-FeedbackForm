@@ -1,0 +1,35 @@
+
+#submit{
+  background-color: green;
+  color: rgb(240, 242, 244);
+  border: none;
+}
+
+#reset{
+  background-color: red;
+  color: white;
+  border: none;
+}
+h1{
+  background-color: rgb(244, 143, 28);
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+#form{
+  background-color: rgb(167, 144, 232);
+  color: rgb(208, 241, 254);
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  
+}
+body{
+  background-color: rgb(149, 240, 176);
+}
+
+#usability{
+  color: yellow;
+}
